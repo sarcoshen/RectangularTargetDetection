@@ -1031,18 +1031,4 @@ int main(int argc, char *argv[])
     }
     
     return 0;
-/*    
-fin = open('./test_image.txt')
-for line in fin:
-    src_path = './test_image/' + line.strip().split()[0]
-    edge_src_path = './test_image/' + line.strip().split()[-1]
-    dst_path = './test_image/' + line.strip().split()[0].split('.')[0] + '_hough.jpg'
-    src_src = cv2.imread(src_path)
-    #cv2.imwrite(src_path,src_src)
-    edge_src = cv2.imread(edge_src_path)
-    size = (ref_width,ref_height)  
-    src_shrink = cv2.resize(src_src, size, interpolation=cv2.INTER_AREA)
-    hough_process(src_shrink,edge_src)
-    cv2.imwrite(dst_path,src_shrink)   
-*/
 }
