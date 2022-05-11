@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.12)
 
-PROJECT(RectangularTargetDetection
+PROJECT(RectangularTargetDetection）
 
 include_directories(/usr/local/include)
 
