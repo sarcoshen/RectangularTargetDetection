@@ -1,5 +1,12 @@
 # RectangularTargetDetection
 
+红框为检测到的矩形目标，无红框说明没检测到。下面是对手持、有弯折、有缺损的矩形目标检测结果：
+
+
+
+![WeChat68838e932c831e5505b364cbde7d455d](https://user-images.githubusercontent.com/105346862/167883846-b30f9710-b978-4b05-9f0a-0437eb2b6a81.png)
+
+
 
 ![WeChat88958e082e441bcddad9cd7b0efa38c4](https://user-images.githubusercontent.com/105346862/167873302-af41ef8c-ffa1-44ed-a936-526af7e91501.png)
 
